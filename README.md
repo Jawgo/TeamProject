@@ -1,7 +1,7 @@
 Team Members:
 
 - Haithem Khelif
-- Test
+- Josh Schijns
 - Member Name
 - Member Name
 - Member Name
